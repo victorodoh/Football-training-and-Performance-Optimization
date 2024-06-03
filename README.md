@@ -1,16 +1,17 @@
 # Football-training-and-Performance-Optimization
 This project involves utilizing StatsBomb football performance data to optimize training and performance in Football. Business Intelligence and Machine Learning Techniques were employed.
+
 Tools involved: `Power BI`, `Python`, `DAX`, `Power Query`,  `JupyterLab`, `K-Means`, e.t.c
 
 ## Aim:
 - to enhance decision-making processes related to athletic training, injury prevention, and overall performance improvement through the application of business intelligence and machine learning techniques.
 
 ## Achieved Objectives:
-- Collect and clean StatsBomb football performance data to ensure its accuracy and consistency for subsequent analysis.
-- Apply appropriate business intelligence and machine learning techniques to analyze the data, identifying key trends, patterns, and relationships.
-- Based on the data analysis, identify key performance indicators (KPIs) that are most effective in assessing and monitoring individual and team performance.
-- Develop data visualizations and interactive dashboards using Power BI to effectively communicate the identified KPIs and trends to stakeholders within the sports science industry.
-- Evaluate the effectiveness of the proposed business intelligence and machine learning methods in optimizing training and performance, demonstrating their potential value and impact on the sports science industry.
+1. Collect and clean StatsBomb football performance data to ensure its accuracy and consistency for subsequent analysis.
+2. Apply appropriate business intelligence and machine learning techniques to analyze the data, identifying key trends, patterns, and relationships.
+3. Based on the data analysis, identify key performance indicators (KPIs) that are most effective in assessing and monitoring individual and team performance.
+4. Develop data visualizations and interactive dashboards using Power BI to effectively communicate the identified KPIs and trends to stakeholders within the sports science industry.
+5. Evaluate the effectiveness of the proposed business intelligence and machine learning methods in optimizing training and performance, demonstrating their potential value and impact on the sports science industry.
 
 ## Dataset:
 
@@ -24,12 +25,12 @@ StatsBomb's GitHub repository offers a vast collection of football event data. T
 
 ## Dashboard Design
 The dashboard consists of the following pages:
-•	Home Page
-•	Team Performance Overview
-•	Decision Making Analysis
-•	Possession Management Analysis
-•	Injury Risk Assessment
-•	Player Management
+1. Home Page
+2. Team Performance Overview
+3. Decision Making Analysis
+4. Possession Management Analysis
+5. Injury Risk Assessment
+6. Player Management
 
 The Analysis Report document in this repo details report on BI and ML techniques used,  each dashboard page including key visuals/functions, metrics and KPIs.
 
